@@ -9,8 +9,8 @@
 # Copy or import function to R #
 
 #Input files
-#1.File contaning categorical or numerical phenotypes
-#2.(optional)File contaning in the first column sample_ID and in the second column the category name
+#1.File contaning categorical or numerical phenotypes (ID's should be the rownames) 
+#2.(optional)File contaning in the first column sample_ID and in the second column the category name (ID's should be the rownames)
 
 #Output files
 #If category table is provided the script creates a summary table per each category
